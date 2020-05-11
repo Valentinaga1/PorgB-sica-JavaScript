@@ -1,0 +1,2 @@
+// Only change code below this line
+var myArray = [["número de mascotas", 3],["nombre de las mascotas: ","arya y lupe"]];

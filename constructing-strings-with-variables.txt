@@ -1,0 +1,3 @@
+// Only change code below this line
+var myName= "Valentina";
+var myStr= "My name is " + myName + " And I am well!";
